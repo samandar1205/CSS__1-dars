@@ -1,0 +1,17 @@
+/*selectors:tag,clas,id*/
+
+p{
+    color: green;
+}
+.text{
+    color: brown;
+}
+.font{
+    font-size: 25px;
+}
+#bg{
+    background-color: black;
+}
+#ba{
+    background-color: black;
+}
