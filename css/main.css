@@ -1,6 +1,6 @@
-/*selectors:tag,clas,id*/
+/* selectors: tag,class,id */
 
-p{
+p,h1{
     color: green;
 }
 .text{
@@ -11,7 +11,13 @@ p{
 }
 #bg{
     background-color: black;
+    color: white;
 }
 #ba{
     background-color: black;
 }
+
+
+
+
+
